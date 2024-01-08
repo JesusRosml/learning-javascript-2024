@@ -1,0 +1,16 @@
+Tutoriales 
+    Complete begginers
+        JavaScript basics | Finalizado
+
+
+Primeros pasos de JavaScript
+    
+    ¿Qué es JavaScript?
+    Un primer vistazo a JavaScript
+    ¿Qué salió mal? Solución de problemas de JavaScript
+    Almacenamiento de la información que necesita: variables 
+    Matemáticas básicas en JavaScript: números y operadores 
+    Manejo de texto: cadenas en JavaScript
+    Métodos de cadenas útilies 
+    matrices 
+    Generador de historias tontas

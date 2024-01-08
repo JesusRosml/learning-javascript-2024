@@ -1,0 +1,10 @@
+Recursos de JavaScript 
+
+- https://developer.mozilla.org/es/docs/Web/JavaScript
+- https://roadmap.sh/javascript
+- https://www.coursera.org/learn/programming-with-javascript-es/home/week/1
+
+Recursos extras que debo leer 
+- https://www.codecademy.com/resources/blog/your-guide-to-semicolons-in-javascript/
+- https://developer.mozilla.org/es/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools
+- https://mothereff.in/js-variables
